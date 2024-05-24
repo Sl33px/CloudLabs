@@ -1,0 +1,1 @@
+export default "https://roc8jrhsc0.execute-api.eu-central-1.amazonaws.com/stage";
